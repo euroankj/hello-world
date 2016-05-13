@@ -1,2 +1,5 @@
 # hello-world
-Evaluating Github for EI.
+Evaluate Github for EI, continued.
+
+So far so good. I like the workflow ideas so far.
+ANKJ
